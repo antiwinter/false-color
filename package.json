@@ -1,0 +1,17 @@
+{
+  "name": "false-color",
+  "version": "1.0.0",
+  "description": "Converts values to false colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "color-space": "^1.16.0"
+  },
+  "devDependencies": {
+    "chalk": "^2.4.1"
+  }
+}
