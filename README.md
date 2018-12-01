@@ -1,3 +1,14 @@
+
+<div align="center">
+	<br>
+	<div>
+		<img src="eg.jpg">
+	</div>
+	<br>
+	<br>
+	<br>
+</div>
+
 > Copyed from [wikipedia](https://en.wikipedia.org/wiki/False_color)
 
 False color (or false colour) refers to a group of color rendering methods used to display images in color which were recorded in the visible or non-visible parts of the electromagnetic spectrum. A false-color image is an image that depicts an object in colors that differ from those a photograph (a true-color image) would show.
