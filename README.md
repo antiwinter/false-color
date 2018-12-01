@@ -15,7 +15,7 @@ False color (or false colour) refers to a group of color rendering methods used 
 
 ## What can this package do
 
-`false-color` generally converts a number to a color, and the color represents the value. This is useful when you want to color a graph when doing data visualization.
+`false-color` generally converts a value to a color, and the color represents the value. This is useful when you want to color a graph when doing data visualization.
 
 ## Install
 
